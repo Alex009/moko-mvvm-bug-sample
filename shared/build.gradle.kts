@@ -37,7 +37,7 @@ kotlin {
                 implementation("io.ktor:ktor-client-serialization:1.6.1")
                 implementation("io.ktor:ktor-client-logging:1.6.1")
                 implementation("org.jetbrains.kotlin:kotlin-reflect:1.5.20-M1")
-                implementation("dev.icerock.moko:mvvm:0.10.1")
+                implementation("dev.icerock.moko:mvvm:0.11.0")
                 api("io.insert-koin:koin-core:3.0.2")
             }
         }
